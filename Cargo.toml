@@ -1,0 +1,7 @@
+[package]
+name = "rustii"
+version = "0.1.0"
+authors = ["Thomas Haessle <thaessle@cutii.io>"]
+edition = "2018"
+
+[dependencies]
