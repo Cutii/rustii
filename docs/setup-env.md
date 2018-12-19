@@ -32,7 +32,7 @@ To build your project run
 cargo build # build
 cargo run #build & run
 cargo test #run unit tests
-cargo release #build in production mode
+cargo build --release #build in production mode
 ```
 
 If you would create a new project from scratch, you could do :
